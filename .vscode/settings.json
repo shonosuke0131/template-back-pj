@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.exclude": {
+        "**/.git": false
+    }
+}
